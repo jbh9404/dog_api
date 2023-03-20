@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Dog pictures API Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+dog-api
 
 ## Available Scripts
 
